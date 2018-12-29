@@ -1,0 +1,26 @@
+Todo: 
+Fix Sound Clipping on repeat DONE
+Save videos to unity lsit when i use them 
+Keep sound player as not deletnig on scene end
+Add grab and throw capabilities DONE
+Add chugging as player gets really close.... DONE 
+
+Added stuff to turn off other sounds on music player....
+
+https://forum.unity.com/threads/calling-function-from-other-scripts-c.57072/ do this so we can Add a glow when ray cast on radio, then call start music when press E...
+https://www.mvcode.com/lessons/interacting-with-other-gameobjects-jamie
+https://www.youtube.com/watch?v=00qMZlacZQo - silhouette highlight
+
+As player approaches radio... message appears: "You feel an overwhelming urge to touch the radio, as if it were drawing you in..." DONE
+
+Use Timeline to animate 2nd Scene:
+Match Lyrics to timeline
+Animate Planets
+Enter the Nebula - enter a white world....... 
+
+make the sun fall. 
+
+
+
+
+
