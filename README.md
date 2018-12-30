@@ -17,11 +17,11 @@ This demo currently runs as a Unity WebGL project hosted online, but will hopefu
 
 
 <p align="center">
-  <img src="./img/shot1.png" alt="Size Limit example"
+  <img src="./img/shot1.png" alt="The Radio"
        width="654" height="450">
 </p>
 
 <p align="center">
-  <img src="./img/shot2.png" alt="Size Limit example"
+  <img src="./img/shot2.png" alt="Moving in space"
        width="654" height="450">
 </p>
