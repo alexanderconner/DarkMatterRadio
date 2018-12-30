@@ -4,7 +4,7 @@
 
 ## Introduction
 
-You can experience the Dark Matter Radio demo at [http://thedarkmatterradio.com/](thedarkmatterradio.com).
+You can experience the Dark Matter Radio demo at [thedarkmatterradio.com](http://thedarkmatterradio.com/).
 
 This is a work in progress, started in mid-2017.
 
